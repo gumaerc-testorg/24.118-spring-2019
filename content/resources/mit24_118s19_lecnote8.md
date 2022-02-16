@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-118-paradox-and-infinity-spring-2019/635800c9b39f5d0fa9ce6baa57e8bb3b_MIT24_118S19_LecNote8.pdf
+file: /media/courses/24-118-paradox-and-infinity-spring-2019/635800c9b39f5d0fa9ce6baa57e8bb3b_MIT24_118S19_LecNote8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: '24.118_S19 Paradox and Infinity, Lecture Note 8: Time Travel'
 uid: 635800c9-b39f-5d0f-a9ce-6baa57e8bb3b

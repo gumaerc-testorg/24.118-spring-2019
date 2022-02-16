@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-118-paradox-and-infinity-spring-2019/21ce8892b49db58dcde32a3e9ae3f533_MIT24_118S19_LecNote3.pdf
+file: /media/courses/24-118-paradox-and-infinity-spring-2019/21ce8892b49db58dcde32a3e9ae3f533_MIT24_118S19_LecNote3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: '24.118_S19 Paradox and Infinity, Lecture Note 3: The Ordinals I'
 uid: 21ce8892-b49d-b58d-cde3-2a3e9ae3f533
