@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section includes the course readings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 26c2a3e4-a427-4e36-f771-b225ef94e409
 ---
@@ -8,7 +12,7 @@ All readings can be found in the following textbook: 
 
  [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262039413) Rayo, Agustín. _On the Brink of Paradox: Highlights from the Intersection of Philosophy and Mathematics_. MIT Press, 2019. ISBN: 9780262039413. \[Preview with [Google Books](https://books.google.com/books?id=nxyNDwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-The following document should also be utilized: [_On the Brink of Paradox_: List of Known Errors (PDF)]({{< baseurl >}}/resources/mit24_118s19_errors).
+The following document should also be utilized: {{% resource_link 2a13f9ac-00c6-c6b2-7ea5-294815622a32 "_On the Brink of Paradox_: List of Known Errors (PDF)" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}

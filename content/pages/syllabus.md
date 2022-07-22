@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 07802c21-3db4-5097-c47c-21de041f8f89
 ---
@@ -21,7 +24,7 @@ Difficulty
 
 Here are the levels of philosophical and mathematical demandingness of each of the topics we'll discuss:
 
-![A graph showing the levels of philosophical and mathematical demandingness of the topics discussed in the class.](/courses/linguistics-and-philosophy/24-118-paradox-and-infinity-spring-2019/syllabus-image.jpg)
+{{< resource "36a0be91-270a-684f-988d-d77314b882c7" >}}
 
 *   On the **philosophical** side, a demandingness level of 100% means that some of the ideas we'll be discussing are rather subtle; you won't need philosophical training to understand them, but you'll have to think about them very carefully.
 *   On the **mathematical** side, a demandingness level of 100% means that the lecture is designed for someone who is familiar with college-level mathematics or is otherwise experienced in mathematical proof.
@@ -33,7 +36,7 @@ There is a required textbook, which you should use to supplement your understand
 
  [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262039413) Rayo, Agustín. _On the Brink of Paradox: Highlights from the Intersection of Philosophy and Mathematics_. MIT Press, 2019. ISBN: 9780262039413. \[Preview with [Google Books](https://books.google.com/books?id=nxyNDwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-For specific chapter information, see the [Readings]({{< baseurl >}}/pages/readings) section.
+For specific chapter information, see the {{% resource_link 26c2a3e4-a427-4e36-f771-b225ef94e409 "Readings" %}} section.
 
 Grading Policy
 --------------
@@ -93,4 +96,4 @@ _Attending recitation sections is mandatory. For each recitation meeting, you wi
 
 {{< tableclose >}}
 
-For information on the problem sets, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For information on the problem sets, see the {{% resource_link 0f9007ff-3202-88d6-be00-82ad2787b280 "Assignments" %}} section.

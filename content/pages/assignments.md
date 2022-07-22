@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the course problem sets.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 0f9007ff-3202-88d6-be00-82ad2787b280
 ---
@@ -33,7 +37,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Infinite Cardinalities (PDF)]({{< baseurl >}}/resources/mit24_118s19_problemset1)
+{{% resource_link df9cbef0-041d-6969-bd62-52920a2deb09 "Infinite Cardinalities (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +46,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[The Higher Infinite (PDF)]({{< baseurl >}}/resources/mit24_118s19_problemset2)
+{{% resource_link 1ee75cf7-156b-fff5-521b-2559a2158a7e "The Higher Infinite (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +55,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Omega-Sequence Paradoxes (PDF)]({{< baseurl >}}/resources/mit24_118s19_problemset3)
+{{% resource_link 97a6c811-2dcf-0b0e-1ad5-17826f320043 "Omega-Sequence Paradoxes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +64,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Time Travel (PDF)]({{< baseurl >}}/resources/mit24_118s19_problemset4)
+{{% resource_link 81520369-3317-2ded-d63d-0a6abf9e32c4 "Time Travel (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +73,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Newcomb's Problem (PDF)]({{< baseurl >}}/resources/mit24_118s19_problemset5)
+{{% resource_link a219e7c5-a3d0-203a-f427-4fb446bd9246 "Newcomb's Problem (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +82,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Probability (PDF)]({{< baseurl >}}/resources/mit24_118s19_problemset6)
+{{% resource_link 6ea44ee9-7590-0ad1-aa8f-77bd848b5d7a "Probability (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +91,7 @@ TOPICS
 7 and 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Non-Measurable Sets (PDF)]({{< baseurl >}}/resources/mit24_118s19_problemsets7_and_8)
+{{% resource_link a8b71480-22fe-3edc-dce0-b25266e1e1c6 "Non-Measurable Sets (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +100,7 @@ TOPICS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Computability (PDF)]({{< baseurl >}}/resources/mit24_118s19_problemset9)
+{{% resource_link b44693ac-c087-84dc-d876-844d312b497a "Computability (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +109,7 @@ TOPICS
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Gödel's Theorem (PDF)]({{< baseurl >}}/resources/mit24_118s19_problemset10)
+{{% resource_link 0bd76271-2d25-88ee-9323-6f85f336dd0a "Gödel's Theorem (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
