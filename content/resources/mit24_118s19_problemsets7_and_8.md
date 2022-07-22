@@ -5,6 +5,7 @@ file: /courses/24-118-paradox-and-infinity-spring-2019/a8b7148022fe3edcdce0b2526
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
