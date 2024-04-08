@@ -19,7 +19,7 @@ leftnav:
   name: Assignments
   pageRef: /pages/assignments
   weight: 50
-- identifier: external-1429229257-1647371608099
+- identifier: 638d7bf7-a885-4866-b773-b110a0323923
   name: Other Version
-  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+24.118x+2T2020/about
+  pageRef: /external-resources/other-version_638d7bf7-a885-4866-b773-b110a0323923
   weight: 60
