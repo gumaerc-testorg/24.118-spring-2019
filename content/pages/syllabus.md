@@ -34,7 +34,7 @@ Textbook
 
 There is a required textbook, which you should use to supplement your understanding of the lectures and as an aid to completing problem sets:
 
- {{% resource_link "32bdb348-6f0f-4739-baa2-f5acc6b90950" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Rayo, Agustín. _On the Brink of Paradox: Highlights from the Intersection of Philosophy and Mathematics_. MIT Press, 2019. ISBN: 9780262039413. \[Preview with {{% resource_link "3bbe17cf-dccf-4da3-b370-583c7a1d1ec5" "Google Books" %}}\]
+ [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262039413) Rayo, Agustín. _On the Brink of Paradox: Highlights from the Intersection of Philosophy and Mathematics_. MIT Press, 2019. ISBN: 9780262039413. \[Preview with [Google Books](https://books.google.com/books?id=nxyNDwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
 
 For specific chapter information, see the {{% resource_link 26c2a3e4-a427-4e36-f771-b225ef94e409 "Readings" %}} section.
 

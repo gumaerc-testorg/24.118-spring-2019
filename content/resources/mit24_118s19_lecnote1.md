@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/24-118-paradox-and-infinity-spring-2019/80ae247f208a2d0027ab2f23fb4f5172_MIT24_118S19_LecNote1.pdf
+file_size: 143294
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
