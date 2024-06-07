@@ -19,7 +19,7 @@ leftnav:
   name: Assignments
   pageRef: /pages/assignments
   weight: 50
-- identifier: 638d7bf7-a885-4866-b773-b110a0323923
+- identifier: 6ff168e1-236c-41e4-aadb-c2bed9baf3af
   name: Other Version
-  pageRef: /external-resources/other-version_638d7bf7-a885-4866-b773-b110a0323923
+  pageRef: /external-resources/other-version_6ff168e1-236c-41e4-aadb-c2bed9baf3af
   weight: 60
