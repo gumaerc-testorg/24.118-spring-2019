@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/24-118-paradox-and-infinity-spring-2019/8152036933172dedd63d0a6abf9e32c4_MIT24_118S19_ProblemSet4.pdf
+file_size: 204434
 file_type: application/pdf
 learning_resource_types:
 - Assignments
