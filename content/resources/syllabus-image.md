@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/24-118-paradox-and-infinity-spring-2019/36a0be91270a684f988dd77314b882c7_syllabus-image.jpg
+file: /courses/24-118-paradox-and-infinity-spring-2019/36a0be91270a684f988dd77314b882c7_syllabus-image.jpg
 file_size: 65463
 file_type: image/jpeg
 image_metadata:
