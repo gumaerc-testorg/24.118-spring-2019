@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/24-118-paradox-and-infinity-spring-2019/df9cbef0041d6969bd6252920a2deb09_MIT24_118S19_ProblemSet1.pdf
+file: /courses/24-118-paradox-and-infinity-spring-2019/df9cbef0041d6969bd6252920a2deb09_MIT24_118S19_ProblemSet1.pdf
 file_size: 164063
 file_type: application/pdf
 learning_resource_types:
