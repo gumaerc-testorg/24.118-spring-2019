@@ -17,7 +17,7 @@ The problem sets count for 80% of the course grade.
 
 _Collaboration Policy_
 
-It's okay to discuss problem-sets with other MIT students who are currently taking the class, but each student must complete the problem-set on his or her own and include a list of collaborators. It's okay to consult published materials. With the exception of course-materials, all sources must be credited, in accordance with MIT's [Academic Integrity](https://integrity.mit.edu/) guidelines. (Consulting answers to problem sets from previous versions of the class is considered plagiarism and will be aggressively pursued.)
+It's okay to discuss problem-sets with other MIT students who are currently taking the class, but each student must complete the problem-set on his or her own and include a list of collaborators. It's okay to consult published materials. With the exception of course-materials, all sources must be credited, in accordance with MIT's {{% resource_link "f5e1aea5-6a0b-4686-96fe-a4decbcfdee3" "Academic Integrity" %}} guidelines. (Consulting answers to problem sets from previous versions of the class is considered plagiarism and will be aggressively pursued.)
 
 {{< tableopen >}}
 {{< theadopen >}}
