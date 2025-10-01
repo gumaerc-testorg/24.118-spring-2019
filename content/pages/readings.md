@@ -10,7 +10,7 @@ uid: 26c2a3e4-a427-4e36-f771-b225ef94e409
 
 All readings can be found in the following textbook: 
 
- [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262039413) Rayo, Agustín. _On the Brink of Paradox: Highlights from the Intersection of Philosophy and Mathematics_. MIT Press, 2019. ISBN: 9780262039413. \[Preview with [Google Books](https://books.google.com/books?id=nxyNDwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
+ {{% resource_link "66814687-d1e8-4406-9b40-a48e671faa68" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Rayo, Agustín. _On the Brink of Paradox: Highlights from the Intersection of Philosophy and Mathematics_. MIT Press, 2019. ISBN: 9780262039413. \[Preview with {{% resource_link "177180fa-3f5b-45f6-8a10-4404e9f9f0e4" "Google Books" %}}\]
 
 The following document should also be utilized: {{% resource_link 2a13f9ac-00c6-c6b2-7ea5-294815622a32 "_On the Brink of Paradox_: List of Known Errors (PDF)" %}}.
 
